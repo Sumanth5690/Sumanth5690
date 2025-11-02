@@ -4,8 +4,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sumanth%20L-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumanth-l-472636266/)](https://www.linkedin.com/in/sumanth-l-472636266/)
 [![Gmail Badge](https://img.shields.io/badge/-sumanthsumanthacharya8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumanthsumanthacharya8@gmail.com)](mailto:sumanthsumanthacharya8@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-96pkpujhd-sumanths-projects-7a2fd97c.vercel.app/)
 
-- 🎯 Portfolio website: [https://portfolio-96pkpujhd-sumanths-projects-7a2fd97c.vercel.app/](https://portfolio-96pkpujhd-sumanths-projects-7a2fd97c.vercel.app/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
